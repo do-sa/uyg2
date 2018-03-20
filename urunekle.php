@@ -33,8 +33,12 @@
 	}
 	if ($_POST["ekle"])
 	{
-		$dosya=fopen("urun.txt","a");
-		$yazilacak=$_POST["uadi"]."-".$_POST["umarkasi"]."-".$_POST["ufiyati"]."\n";
-		fputs($dosya,$yazilacak);
+		
+		
+		
+		
+		
+		
+		
 	}
 ?>
