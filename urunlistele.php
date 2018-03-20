@@ -1,6 +1,6 @@
 <table border="1" align="center">
 <tr>
-<th colspan="3">URUN L›STELE</th>
+<th colspan="3">URUN L√ùSTELE</th>
 </tr>
 <tr>
 <th>Adi</th>
@@ -9,8 +9,14 @@
 </tr>
 
 <?php
-	$dosya=fopen("urun.txt","r");
-	while (!feof($dosya))
+	
+	
+	
+	
+	
+	
+	
+	
 	{
 		$kaynak=fgets($dosya,256);
 		$kaynak=trim($kaynak);
