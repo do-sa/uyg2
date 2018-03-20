@@ -10,10 +10,12 @@
 			$dosya=fopen("urun.txt","r");
 			while (!feof($dosya))
 			{
-				$kaynak=fgets($dosya,256);
-				$kaynak=trim($kaynak);
-				$dizi=explode("-",$kaynak);
-				echo "<option>".$dizi[0];	
+				
+				
+				
+				
+				
+				
 			}
 		echo"</select>";	
 		?>
