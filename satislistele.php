@@ -1,6 +1,6 @@
 <table border="1" align="center">
 <tr>
-	<th colspan="2">SATIS L›STELE</th>
+	<th colspan="2">SATIS L√ùSTELE</th>
 </tr>
 <tr>
 	<th>Adi</th>
@@ -13,10 +13,18 @@
 		$kaynak=fgets($dosya,256);
 		$kaynak=trim($kaynak);
 		$dizi=explode("-",$kaynak);
-		echo"<tr>";
-			echo"<td>".$dizi[0]."</td>";
-			echo"<td>".$dizi[1]."</td>";
-		echo"</tr>";
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	}
 	
 ?>
